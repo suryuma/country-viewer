@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Screenshot
-![country](https://github.com/grraghav120/country-viewer/assets/96789493/4197275c-64c9-4647-ab28-17de77c14b4a)
+![country]([https://github.com/suryuma/country-viewer/blob/main/country-viewer-main/src/assets/Country%20details.png]
 
 - You can search Country by name -> Write Country Name -> Click Search Icon
 - You can filter countries based on Continent
